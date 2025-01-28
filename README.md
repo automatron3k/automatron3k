@@ -1,6 +1,6 @@
 # About me 🐼
 
-- 🔭 Currently working as a full stack web developer in a tutorships program implemented both in Santiago (capital) and the south region of Chile by Focus Consultancy Agency for MINEDUC (Ministerio de Educación de Chile). Parallally working in a couple of minor projects also as full stack (GOZ Chile, ECOMEK and WDigital).
+- 🔭 Currently working as a full stack web developer in a tutorships program implemented both in Santiago (capital) and the south region of Chile by Focus Consultancy Agency for MINEDUC (Ministerio de Educación de Chile). Parallelly working in a couple of minor projects also as full stack.
 - 🌱 I'm learning programming languages (mainly Typescript, Python and SQL) to be able to achieve more complex actions with data and be more efficient in data handling and front-end engineering.
 - 🫂 I’m looking to collaborate on Web3 projects, aiming to decentralize the internet while protecting users data and privacy.
 - 🤔 I’m looking for help with being able to program my Airtable bases from outside of Airtable -> Basically I would like to control my Airtable data from outside (VSCode), so I need to learn SQL and how to save, update, and connect to my Low Code front-end (maybe even migrate from it), among others... BTW I recently discovered the Bluedot Impact Airtable Standards which I have applied to my bases since then, now not only they look beautiful, but I can proudly say I'm able to move and program much quicker and with less errors than ever.
