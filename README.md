@@ -1,4 +1,4 @@
 - Full stack web developer especialized in workflows efficiency. Born in Santiago, Chile and currently based in Porto, Portugal.
-- Self taught on web developing, started from no-code tools and now working daily with SQL, Javascript, Python, HTML and CSS.
+- Self taught dev, working daily with Git, SQL, Javascript, Python, HTML and CSS.
 - Developing internal tools for projects that worths it, that is, cultural, social and above all, human organizations.
 - Feel free to reach me: automatron3k@proton.me
