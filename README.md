@@ -1,4 +1,4 @@
-- Full stack dev specialized in workflows efficiency. Born in Santiago, Chile and currently based between in Nantes, France.
+- Full stack dev specialized in workflows efficiency. Born in Santiago, Chile and currently based in Nantes, France.
 - Working daily with Bash, Git, SQL, JS, Python, HTML and CSS both in solo and team projects.
 - Developing internal tools for worthy projects, that is, cultural, social and above all, human organizations.
 - Feel free to reach me: automatron3k@proton.me
